@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test"
   },
-  "author": "Dulguun Enkhtsog, Manlai Tsogbadrakh",
+  "author": "Dulguun Enkhtsog, Manlai Tsogbadral",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.7.1",
