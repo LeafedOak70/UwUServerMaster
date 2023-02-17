@@ -1,0 +1,18 @@
+{
+  "name": "servermaster",
+  "version": "1.0.0",
+  "description": "UwU discord server Master",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dulguun Enkhtsog, Manlai Tsogbadrakh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
